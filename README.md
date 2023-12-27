@@ -1,5 +1,5 @@
-### Name: Tom francies xaviour
-### register number: 23007644
+### Name: Tharun V K
+### Register Number: 23003686
 
 
 # Experiment 05-Implementation-of-flipflops-using-verilog
