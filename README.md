@@ -106,7 +106,7 @@ Q(t+1)=T′Q(t)+TQ(t)′
 ⇒Q(t+1)=T⊕Q(t)
 
 # PROCDEDURE
-1.Open Quartus II and select new project and choose the file location.
+1.Open Quartus II and select new project and choose the file location.# 
 2.Module Declaration. Module should have the file name.
 3.Declare Inputs and outputs.
 4.Use assign declaration and wire to define the functionality of logic circuits.
